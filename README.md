@@ -14,3 +14,5 @@ What I want to understand more:
 - More `useState` implementation.
 - Which components will used `useState` for their logics.
 - Understand why `props` drilling is a bad practice. 
+
+[Credit](https://www.udemy.com/share/101ros3@ZZFSqGs32Qy3Lp6FZzpCmhGPJqvi89yeQe_CA_u6H17iWbEDGgmM2HHM75muM3lKHw==/).

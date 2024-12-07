@@ -9,3 +9,8 @@ In this project, I learned about:
 
 My thoughts about React so far:
 - Callback functions will be used frequently. So far I used callback functions in button-like components.
+
+What I want to understand more:
+- More `useState` implementation.
+- Which components will used `useState` for their logics.
+- Understand why `props` drilling is a bad practice. 

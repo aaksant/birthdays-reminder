@@ -1,8 +1,11 @@
-# React + Vite
+# Birthday Reminder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the first React app I've created. I'm happy with this project because I didn't use any helps from AI tools (smiles happily). 
 
-Currently, two official plugins are available:
+In this project, I learned about:
+- Using `props` to render component.
+- Passing `props` from parent component to child components.
+- What is state and how to use the `useState` hook.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My thoughts about React so far:
+- Callback functions will be used frequently. So far I used callback functions in button-like components.

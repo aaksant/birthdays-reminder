@@ -1,4 +1,4 @@
-# Birthday Reminder
+# Birthdays Reminder
 
 This is the first React app I've created. I'm happy with this project because I didn't use any helps from AI tools (smiles happily). 
 
